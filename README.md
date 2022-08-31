@@ -11,3 +11,7 @@ Tools used:
 Install HTTPie CLI:
 snap install httpie
 https://httpie.io/cli
+
+Tail the logs:
+`tail -f *.log`
+
